@@ -11,6 +11,7 @@
 #### Frameworks
 ![Django](https://img.shields.io/badge/-Django-9920db?style=for-the-badge&logo=django&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-da70d6?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/-React-ff69b4?style=for-the-badge&logo=react&logoColor=white)
 
 ## 📊 GitHub Stats
 <p align="center">
